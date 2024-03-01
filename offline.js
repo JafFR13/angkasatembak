@@ -1,0 +1,33 @@
+﻿{
+	"version": 1709296662,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/bg_space_seamless_-sheet0.png",
+		"images/player_ship-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/sprite3-sheet1.png",
+		"images/sprite3-sheet2.png",
+		"images/doer1removebgpreview-sheet0.png",
+		"images/rock-sheet0.png",
+		"images/rock-sheet1.png",
+		"images/rock-sheet2.png",
+		"images/particles.png",
+		"images/particles2.png",
+		"images/sprite4-sheet0.png",
+		"images/pesawatduar.png",
+		"images/bardarah-sheet0.png",
+		"images/outlinedarah-sheet0.png",
+		"images/win-sheet0.png",
+		"images/gameover-sheet0.png",
+		"images/batu-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
